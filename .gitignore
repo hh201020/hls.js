@@ -7,3 +7,33 @@ npm-debug.log
 
 # ignore JetBrains
 .idea/*
+
+build/files/*
+build/temp/*
+docs/api/*
+dev.html
+projects
+.zenflow-log
+test/*.map
+.bunyipconfig.js
+.s3config.json
+
+sandbox/*
+!sandbox/*.example
+
+*.swp
+*.swo
+
+*.orig
+
+*results.xml
+*.log
+
+test/coverage/*
+.coveralls.yml
+.sass-cache
+
+dist/*
+es5/*
+
+.idea/
